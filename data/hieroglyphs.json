@@ -1,0 +1,526 @@
+{
+    "Common":[
+{
+            "name": "The Mouth",
+            "meaning": "The Mouth represents communication, meetings, and working out details with others.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037454781747240/unknown.png",
+            "UniCode": ""
+        },
+{
+            "name": "The Forearm",
+            "meaning": "The Forearm indicates receiving something positive: a gift of fate, the help of another, or things falling into place unexpectedly, through no effort of your own.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037531877257276/unknown.png"
+        },
+{
+            "name": "The Hand",
+            "meaning": "The Hand indicates personal skill and ability, being able to do whatever you want in the situation and make the situation however you want it to be.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037570896875611/unknown.png"
+        },
+{
+            "name": "The Leg",
+            "meaning": "The Leg indicates travel, movement, and influences from other locations.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037617206177822/unknown.png"
+        },
+{
+            "name": "The Vulture",
+            "meaning": "The Vulture indicates the need to have emotional distance from a situation, to step back and not get caught up. The Vulture indicates that the emotions of the moment may be blinding one, and that it is necessary to look at the situation from a distance.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037689394344066/unknown.png"
+        },
+{
+            "name": "The Owl",
+            "meaning": "The Owl indicates wisdom, insight, and knowledge: having an overview of a situation and seeing it clearly.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037734776705064/unknown.png"
+        },
+{
+            "name": "The Quail Chick",
+            "meaning": "The Quail Chick indicates new beginnings, new directions, and new doors opening. It symbolizes opportunity and potential.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037824782286928/unknown.png"
+        },
+{
+            "name": "The Cobra",
+            "meaning": "The Cobra indicates power and authority, whether of a person or an institution. The Cobra indicates the need to take a humble role in the situation and work within a system that is controlled by others.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037864816910367/unknown.png"
+        },
+{
+            "name": "The Reed",
+            "meaning": "The Reed indicates growth, expansion, and being very busy with many projects or having many irons in the fire. It symbolizes creativity and selfexpression.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037901848432660/unknown.png"
+        },
+{
+            "name": "The Double Reed",
+            "meaning": "The Double Reeds indicate being over-extended, having too much to do and too many obligations, having taken on too much. They symbolize a need to cut back and simplify one’s life.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037953731960913/unknown.png"
+        },
+{
+            "name": "The Slope of a Hill",
+            "meaning": "The Slope of a Hill indicates challenges and difficulties. What is desired may be possible, but it will be an uphill battle and require much effort to attain.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037992822865920/unknown.png"
+        },
+{
+            "name": "The Door Bolt",
+            "meaning": "The Door Bolt indicates safety and protection. The situation is unlikely to be harmful or damaging, so one should have no fear.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038065241727046/unknown.png"
+        },
+{
+            "name": "The Stool",
+            "meaning": "The Seat indicates the help and support of others, whether that be friends, family, or associates. Good advice or aid from others will be helpful.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038127158050886/unknown.png"
+        },
+{
+            "name": "The Lasso",
+            "meaning": "The Lasso indicates unseen problems, obstacles, or challenges. One must be careful, and should take a second look at the situation to ensure nothing was missed at first glance.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038184208973934/unknown.png"
+        },
+{
+            "name": "The Waters",
+            "meaning": "The Waters indicate that the divine is guiding one, and one should relax and go with it, even if one is not certain where it is going. It symbolizes divine providence.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038229385826324/unknown.png"
+        },
+{
+            "name": "The Lying Lion",
+            "meaning": "The Lying Lion indicates bravery, courage, and self-confidence. It symbolizes the strength to face every situation and the strength to stand up to every challenge.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038268350898197/unknown.png"
+        },
+{
+            "name": "The Tethering Rope",
+            "meaning": "The Tethering Rope indicates wealth and prosperity, having things that you desire. It symbolizes a solidification of your wealth.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038334281154630/unknown.png"
+        },
+{
+            "name": "The Twisted Wick",
+            "meaning": "The Twisted Wick indicates cleansing, releasing, and letting go of the old to make way for the new. It symbolizes the need to not hold on to what one has outgrown. It can also symbolize eternity or significant lengths of time.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038369286823976/unknown.png"
+        },
+{
+            "name": "The Metal Vessel",
+            "meaning": "The Metal Vessel indicates change, transformation, and development from one thing to another. It symbolizes the development of a situation from chaos to order.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038439189106738/unknown.png"
+        },
+{
+            "name": "The Loaf of Bread",
+            "meaning": "The Loaf of Bread indicates taking care of others, fulfilling duties or requirements in a situation, attending to the necessary details, and making sure that what needs to get done, gets done. It symbolizes doing your part to make a situation successful.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038480704311348/unknown.png"
+        },
+{
+            "name": "The Cup",
+            "meaning": "The Cup indicates pleasure, enjoyment, good friends and positive situations. It symbolizes happiness.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038560282849351/unknown.png"
+        },
+{
+            "name": "The Palm Branch",
+            "meaning": "The Palm Branch indicates success, positive attention, and the admiration of others. It symbolizes the reward of effort, honor, and recognition.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038627496562718/unknown.png"
+        },
+{
+            "name": "The “slug”",
+            "meaning": "The Slug indicates slow movement and the need for patience. It asks you to let the situation develop at its own pace, even if it is slow. It symbolizes that things need to fall into place before they can move forward. The “slug” does not actually exist in Kemetic hieroglyphs, and is in fact an unnamed hieroglyph that just happens to look like a slug.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038691795255397/unknown.png"
+        }
+    ],
+    "Uncommon":[
+{
+            "name": "The Crouching Man Behind the Wall",
+            "meaning": "The Crouching Man Behind the Wall indicates concealment, secrecy, and hiding. It symbolizes an obscured truth and the lack of honesty and transparency. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036377920484167790/unknown.png"
+        },
+{
+            "name": "The Seated Man Under A Vase",
+            "meaning": "The Seated Man Under A Vase indicates a need to cleanse your space and your mind, to purify your surroundings and your heart, and to return to a situation refreshed and with a blank slate.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036377962204905583/unknown.png"
+        },
+{
+            "name": "The Man with a Basket",
+            "meaning": "The Man with a Basket indicates being overworked and underpaid. It symbolizes being weighed down by far too much with nowhere to rest. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378002147258478/unknown.png"
+        },
+{
+            "name": "The Man with Tired Arms",
+            "meaning": "The Man with Tied Arms indicates traitorous behavior that could hurt one. It symbolizes needing to look around at those that one trusts and reconsidering who one trusts blindly. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378041527570573/unknown.png"
+        },
+{
+            "name": "The Woman Suckling Child",
+            "meaning": "The Woman Suckling Child indicates nourishment and concern. It symbolizes care for another and indicates that one should look to others for support, or to be that support for others. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378077300789300/unknown.png"
+        },
+{
+            "name": "The God with Jackal Head",
+            "meaning": "The God with Jackal Head indicates the presence of Anpu, or the abrupt ending of something. It symbolizes a need to weigh one’s decisions carefully and consider the outcomes of it in the future. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378123849187476/unknown.png"
+        },
+{
+            "name": "The Goddess with Horned Sun-Disk",
+            "meaning": "The Goddess with Horned Sun-Disk indicates the presence of Hathor, or feminine joy and liberation. It symbolizes a need for sexual liberation and radical joy in the world.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378170754093106/unknown.png"
+        },
+{
+            "name": "The Goddess with Feather",
+            "meaning": "The Goddess with Feather indicates the presence of Ma’at, or the need for order and balance. It symbolizes the stress that comes from not being somewhat organized, and the anxiety of disorder.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378213716348968/unknown.png"
+        },
+{
+            "name": "The Horns",
+            "meaning": "The Horns indicate new beginnings and clean slates. They symbolize a fresh, new start is coming.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378261044854795/unknown.png"
+        },
+{
+            "name": "The Backbone and Spinal Cord",
+            "meaning": "The Backbone and Spinal Cord indicate length, strength, and extension. They symbolize anything long-lasting in one’s life, and often refer to welfare.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378298768424970/unknown.png"
+        },
+{
+            "name": "The Bee",
+            "meaning": "The Bee indicates sweetness, unification, and productivity. It can also often signify the presence of Neith, as she is commonly associated with bees. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378343093846046/unknown.png"
+        },
+{
+            "name": "The Stack",
+            "meaning": "The Stack, or the Stack of Grain, indicates abundance and growth. It symbolizes reaping the benefits of what you’ve sown and creating abundance from what you’ve been given.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378372307165194/unknown.png"
+        },
+{
+            "name": "The Brazier",
+            "meaning": "The Brazier indicates light being brought to a situation and clarity being given. It symbolizes the need to consider your situation carefully and to really try to illuminate any confusion you may have. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378403760255016/unknown.png"
+        },
+{
+            "name": "The Loaf on Mat",
+            "meaning": "The Loaf on Mat indicates an offering, a boon, a pleasing experience or a pardon. It symbolizes being pleased, happy, gracious, and at peace. You should count your blessings and revel in the things in your life that are good and bringing you joy. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378437339861002/unknown.png"
+        },
+{
+            "name": "The Two Bows Tied Vertically",
+            "meaning": "The Two Bows Tied Vertically indicate the presence of Neith, or the need for protection and order.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378478414671882/unknown.png"
+        },
+{
+            "name": "The Ankh",
+            "meaning": "The Ankh indicates life, eternal life, and the power to sustain life. It symbolizes nourishment, protection, and the soul. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378590159323157/unknown.png"
+        },
+{
+            "name": "The Sekhem Scepter",
+            "meaning": "The Sekhem Scepter indicates power and control. It symbolizes the need to take control of one’s situation. Determine what you need in a situation, and work towards it.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378686187901049/unknown.png"
+        },
+{
+            "name": "The Bow",
+            "meaning": "The Bow indicates being stretched and extended, often beyond where one should be. It symbolizes the need to step back and reconsider one’s priorities. What is the most important to you? What could you ask someone else to help with?",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378731809341440/unknown.png"
+        },
+{
+            "name": "The Divided Cartouche",
+            "meaning": "The Divided Cartouche indicates division and exclusion. You may be feeling particularly lonely or particularly excluded from events that you would normally be included in. It symbolizes a need to reconnect with those you care about and love. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378767091847208/unknown.png"
+        },
+{
+            "name": "The Crossed Diagonal Sticks",
+            "meaning": "The Crossed Diagonal Sticks indicate breaks, division, and overload. Figure out what you need to let go of.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378819348680744/unknown.png"
+        }
+    ],
+    "Mixed":[
+{
+            "name": "The Mouth",
+            "meaning": "The Mouth represents communication, meetings, and working out details with others.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037454781747240/unknown.png",
+            "UniCode": ""
+        },
+{
+            "name": "The Forearm",
+            "meaning": "The Forearm indicates receiving something positive: a gift of fate, the help of another, or things falling into place unexpectedly, through no effort of your own.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037531877257276/unknown.png"
+        },
+{
+            "name": "The Hand",
+            "meaning": "The Hand indicates personal skill and ability, being able to do whatever you want in the situation and make the situation however you want it to be.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037570896875611/unknown.png"
+        },
+{
+            "name": "The Leg",
+            "meaning": "The Leg indicates travel, movement, and influences from other locations.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037617206177822/unknown.png"
+        },
+{
+            "name": "The Vulture",
+            "meaning": "The Vulture indicates the need to have emotional distance from a situation, to step back and not get caught up. The Vulture indicates that the emotions of the moment may be blinding one, and that it is necessary to look at the situation from a distance.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037689394344066/unknown.png"
+        },
+{
+            "name": "The Owl",
+            "meaning": "The Owl indicates wisdom, insight, and knowledge: having an overview of a situation and seeing it clearly.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037734776705064/unknown.png"
+        },
+{
+            "name": "The Quail Chick",
+            "meaning": "The Quail Chick indicates new beginnings, new directions, and new doors opening. It symbolizes opportunity and potential.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037824782286928/unknown.png"
+        },
+{
+            "name": "The Cobra",
+            "meaning": "The Cobra indicates power and authority, whether of a person or an institution. The Cobra indicates the need to take a humble role in the situation and work within a system that is controlled by others.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037864816910367/unknown.png"
+        },
+{
+            "name": "The Reed",
+            "meaning": "The Reed indicates growth, expansion, and being very busy with many projects or having many irons in the fire. It symbolizes creativity and selfexpression.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037901848432660/unknown.png"
+        },
+{
+            "name": "The Double Reed",
+            "meaning": "The Double Reeds indicate being over-extended, having too much to do and too many obligations, having taken on too much. They symbolize a need to cut back and simplify one’s life.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037953731960913/unknown.png"
+        },
+{
+            "name": "The Slope of a Hill",
+            "meaning": "The Slope of a Hill indicates challenges and difficulties. What is desired may be possible, but it will be an uphill battle and require much effort to attain.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037992822865920/unknown.png"
+        },
+{
+            "name": "The Door Bolt",
+            "meaning": "The Door Bolt indicates safety and protection. The situation is unlikely to be harmful or damaging, so one should have no fear.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038065241727046/unknown.png"
+        },
+{
+            "name": "The Stool",
+            "meaning": "The Seat indicates the help and support of others, whether that be friends, family, or associates. Good advice or aid from others will be helpful.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038127158050886/unknown.png"
+        },
+{
+            "name": "The Lasso",
+            "meaning": "The Lasso indicates unseen problems, obstacles, or challenges. One must be careful, and should take a second look at the situation to ensure nothing was missed at first glance.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038184208973934/unknown.png"
+        },
+{
+            "name": "The Waters",
+            "meaning": "The Waters indicate that the divine is guiding one, and one should relax and go with it, even if one is not certain where it is going. It symbolizes divine providence.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038229385826324/unknown.png"
+        },
+{
+            "name": "The Lying Lion",
+            "meaning": "The Lying Lion indicates bravery, courage, and self-confidence. It symbolizes the strength to face every situation and the strength to stand up to every challenge.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038268350898197/unknown.png"
+        },
+{
+            "name": "The Tethering Rope",
+            "meaning": "The Tethering Rope indicates wealth and prosperity, having things that you desire. It symbolizes a solidification of your wealth.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038334281154630/unknown.png"
+        },
+{
+            "name": "The Twisted Wick",
+            "meaning": "The Twisted Wick indicates cleansing, releasing, and letting go of the old to make way for the new. It symbolizes the need to not hold on to what one has outgrown. It can also symbolize eternity or significant lengths of time.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038369286823976/unknown.png"
+        },
+{
+            "name": "The Metal Vessel",
+            "meaning": "The Metal Vessel indicates change, transformation, and development from one thing to another. It symbolizes the development of a situation from chaos to order.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038439189106738/unknown.png"
+        },
+{
+            "name": "The Loaf of Bread",
+            "meaning": "The Loaf of Bread indicates taking care of others, fulfilling duties or requirements in a situation, attending to the necessary details, and making sure that what needs to get done, gets done. It symbolizes doing your part to make a situation successful.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038480704311348/unknown.png"
+        },
+{
+            "name": "The Cup",
+            "meaning": "The Cup indicates pleasure, enjoyment, good friends and positive situations. It symbolizes happiness.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038560282849351/unknown.png"
+        },
+{
+            "name": "The Palm Branch",
+            "meaning": "The Palm Branch indicates success, positive attention, and the admiration of others. It symbolizes the reward of effort, honor, and recognition.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038627496562718/unknown.png"
+        },
+{
+            "name": "The “slug”",
+            "meaning": "The Slug indicates slow movement and the need for patience. It asks you to let the situation develop at its own pace, even if it is slow. It symbolizes that things need to fall into place before they can move forward. The “slug” does not actually exist in Kemetic hieroglyphs, and is in fact an unnamed hieroglyph that just happens to look like a slug.",
+            "rarity": "Common Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038691795255397/unknown.png"
+        },
+{
+            "name": "The Crouching Man Behind the Wall",
+            "meaning": "The Crouching Man Behind the Wall indicates concealment, secrecy, and hiding. It symbolizes an obscured truth and the lack of honesty and transparency. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036377920484167790/unknown.png"
+        },
+{
+            "name": "The Seated Man Under A Vase",
+            "meaning": "The Seated Man Under A Vase indicates a need to cleanse your space and your mind, to purify your surroundings and your heart, and to return to a situation refreshed and with a blank slate.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036377962204905583/unknown.png"
+        },
+{
+            "name": "The Man with a Basket",
+            "meaning": "The Man with a Basket indicates being overworked and underpaid. It symbolizes being weighed down by far too much with nowhere to rest. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378002147258478/unknown.png"
+        },
+{
+            "name": "The Man with Tired Arms",
+            "meaning": "The Man with Tied Arms indicates traitorous behavior that could hurt one. It symbolizes needing to look around at those that one trusts and reconsidering who one trusts blindly. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378041527570573/unknown.png"
+        },
+{
+            "name": "The Woman Suckling Child",
+            "meaning": "The Woman Suckling Child indicates nourishment and concern. It symbolizes care for another and indicates that one should look to others for support, or to be that support for others. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378077300789300/unknown.png"
+        },
+{
+            "name": "The God with Jackal Head",
+            "meaning": "The God with Jackal Head indicates the presence of Anpu, or the abrupt ending of something. It symbolizes a need to weigh one’s decisions carefully and consider the outcomes of it in the future. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378123849187476/unknown.png"
+        },
+{
+            "name": "The Goddess with Horned Sun-Disk",
+            "meaning": "The Goddess with Horned Sun-Disk indicates the presence of Hathor, or feminine joy and liberation. It symbolizes a need for sexual liberation and radical joy in the world.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378170754093106/unknown.png"
+        },
+{
+            "name": "The Goddess with Feather",
+            "meaning": "The Goddess with Feather indicates the presence of Ma’at, or the need for order and balance. It symbolizes the stress that comes from not being somewhat organized, and the anxiety of disorder.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378213716348968/unknown.png"
+        },
+{
+            "name": "The Horns",
+            "meaning": "The Horns indicate new beginnings and clean slates. They symbolize a fresh, new start is coming.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378261044854795/unknown.png"
+        },
+{
+            "name": "The Backbone and Spinal Cord",
+            "meaning": "The Backbone and Spinal Cord indicate length, strength, and extension. They symbolize anything long-lasting in one’s life, and often refer to welfare.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378298768424970/unknown.png"
+        },
+{
+            "name": "The Bee",
+            "meaning": "The Bee indicates sweetness, unification, and productivity. It can also often signify the presence of Neith, as she is commonly associated with bees. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378343093846046/unknown.png"
+        },
+{
+            "name": "The Stack",
+            "meaning": "The Stack, or the Stack of Grain, indicates abundance and growth. It symbolizes reaping the benefits of what you’ve sown and creating abundance from what you’ve been given.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378372307165194/unknown.png"
+        },
+{
+            "name": "The Brazier",
+            "meaning": "The Brazier indicates light being brought to a situation and clarity being given. It symbolizes the need to consider your situation carefully and to really try to illuminate any confusion you may have. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378403760255016/unknown.png"
+        },
+{
+            "name": "The Loaf on Mat",
+            "meaning": "The Loaf on Mat indicates an offering, a boon, a pleasing experience or a pardon. It symbolizes being pleased, happy, gracious, and at peace. You should count your blessings and revel in the things in your life that are good and bringing you joy. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378437339861002/unknown.png"
+        },
+{
+            "name": "The Two Bows Tied Vertically",
+            "meaning": "The Two Bows Tied Vertically indicate the presence of Neith, or the need for protection and order.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378478414671882/unknown.png"
+        },
+{
+            "name": "The Ankh",
+            "meaning": "The Ankh indicates life, eternal life, and the power to sustain life. It symbolizes nourishment, protection, and the soul. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378590159323157/unknown.png"
+        },
+{
+            "name": "The Sekhem Scepter",
+            "meaning": "The Sekhem Scepter indicates power and control. It symbolizes the need to take control of one’s situation. Determine what you need in a situation, and work towards it.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378686187901049/unknown.png"
+        },
+{
+            "name": "The Bow",
+            "meaning": "The Bow indicates being stretched and extended, often beyond where one should be. It symbolizes the need to step back and reconsider one’s priorities. What is the most important to you? What could you ask someone else to help with?",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378731809341440/unknown.png"
+        },
+{
+            "name": "The Divided Cartouche",
+            "meaning": "The Divided Cartouche indicates division and exclusion. You may be feeling particularly lonely or particularly excluded from events that you would normally be included in. It symbolizes a need to reconnect with those you care about and love. ",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378767091847208/unknown.png"
+        },
+{
+            "name": "The Crossed Diagonal Sticks",
+            "meaning": "The Crossed Diagonal Sticks indicate breaks, division, and overload. Figure out what you need to let go of.",
+            "rarity": "Uncommon Hieroglyph",
+            "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036378819348680744/unknown.png"
+        }
+    ]
+}
