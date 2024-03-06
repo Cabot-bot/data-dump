@@ -538,3 +538,46 @@ applicable copyright law and Database Rights in the relevant
 jurisdiction includes additional rights not granted under this License,
 these additional rights are granted in this License in order to meet the
 terms of this License.
+
+### 11.0 Attribution to Cabot-bot
+
+11.1 You agree to provide proper attribution to Cabot-bot when using or
+distributing the Database, Derivative Databases, or any Produced Work
+based on this Database.
+
+11.2 If You Publicly Convey the Database, any Derivative Database, or the
+Database as part of a Collective Database, You must include an attribution
+notice prominently, specifying that the data is from Cabot-bot.
+The attribution notice should include one or more of the following:
+
+  a. A reference to Cabot-bot, Cabot, or Cabot-bot.xyz.
+  
+  b. Links to Cabot-bot, Cabot, or Cabot-bot.xyz.
+
+  c. Other visual forms of Cabot assets, such as logos or trademarks associated with Cabot.
+
+11.3 The attribution notice should be included in the Database or Derivative
+Database, as well as in any relevant documentation associated with the Database or Derivative Database.
+
+11.4 If it is not possible to include the attribution notice in a specific
+file due to its structure, the notice should be included in a location
+(such as a relevant directory) where users are likely to look for it.
+
+11.5 When Publicly Using a Produced Work, You must include an attribution
+notice associated with the Produced Work, reasonably calculated to make
+any Person aware that the Content was obtained from the Database, Derivative
+Database, or the Database as part of a Collective Database, and that it
+is available under this License.
+
+  a. Example notice: The following text will satisfy notice under Section 11.5:
+
+    ```
+    Contains information from Cabot-bot, which is made available here under the Open Database License (ODbL).
+    ```
+
+    "Cabot-bot" should be replaced with the appropriate name and a hyperlink
+to the URI of Cabot-bot. "Open Database License" should contain a hyperlink
+to the URI of the text of this License. If hyperlinks are not possible,
+You should include the plain text of the required URI's with the above notice.
+
+11.6 The requirement for attribution to Cabot-bot is in addition to the other conditions and obligations outlined in this License.
